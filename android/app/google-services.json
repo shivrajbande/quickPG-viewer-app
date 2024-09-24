@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "497637778663",
+    "firebase_url": "https://rento-492a4-default-rtdb.firebaseio.com",
+    "project_id": "rento-492a4",
+    "storage_bucket": "rento-492a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497637778663:android:e913e394bc9f9cbb992e42",
+        "android_client_info": {
+          "package_name": "com.example.rento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarp0Pf8fIu8dDlOpdHuhhwN_TMYcxR5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497637778663:android:74a82c3afa036fb0992e42",
+        "android_client_info": {
+          "package_name": "com.rento.rento_owners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarp0Pf8fIu8dDlOpdHuhhwN_TMYcxR5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
